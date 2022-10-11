@@ -7,5 +7,5 @@ Version2 of this App will now work with ESP32 solarTracker : https://github.com/
 V2 available here : https://github.com/f2knpw/solar_Panel_Orientation/blob/master/PanelOrientationV2.zip </br>
 
 Version3 of this App will now work with ESP32 solarTrackerV3 : https://github.com/f2knpw/ESP32_Solar_Tracker </br>
-V3 available here : https://github.com/f2knpw/solar_Panel_Orientation/blob/master/PanelOrientationV3.zip </br>
+V3 available here : https://github.com/f2knpw/solar_Panel_Orientation/blob/master/PanelOrientation_V3.zip </br>
 
